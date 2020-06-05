@@ -1,0 +1,41 @@
+h1 {
+    color: #1c2b3a;
+}
+
+/* * {
+    border: solid;
+} */
+
+.header {
+    background-color: #1afafa;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.site-description {
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #11111a;
+}
+
+p,h2 {
+    text-align: center;
+    background-color: #5555d5;
+    text-decoration-style: dotted;
+}
+
+.menu {
+    background-color: #7c8b9a;
+}
+
+.a {
+    background-color: red;
+}
