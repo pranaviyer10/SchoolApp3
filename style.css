@@ -1,41 +1,30 @@
 h1 {
-    color: #1c2b3a;
+    color: whitesmoke;
+    opacity: inherit;
 }
-
-/* * {
-    border: solid;
-} */
 
 .header {
-    background-color: #1afafa;
-    display: flex;
-    justify-content: space-between;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: teal;
 }
 
-.site-description {
-    display: flex;
-    flex-direction: column;
-    justify-content: first baseline;
+.href {
+    background-color: slategray;
+    align-content: space-between;
 }
 
-.grid{
-    display: flex;
-    flex-wrap: wrap;
+.p {
+    color: black;
+    background-color: #15d31593;
     justify-content: space-evenly;
-    background-color: #11111a;
-}
-
-p,h2 {
-    text-align: center;
-    background-color: #5555d5;
-    text-decoration-style: dotted;
-}
-
-.menu {
-    background-color: #7c8b9a;
 }
 
 .a {
-    background-color: red;
+    background-color: #17a5d4;
+}
+
+.b {
+    background-color: #17a5d4;
+}
+.c {
+    background-color: #17a5d4;
 }
